@@ -29,7 +29,7 @@ public static class ControlExtensions
 
     public static T GetChildControl<T>(this Control me, string controlName) where T : class
     {
-
+        //Query syntax! how long ago did I write this??!
         return (from Control control in me.Controls
                 where control.Name == controlName
                 select control).FirstOrDefault().As<T>();
