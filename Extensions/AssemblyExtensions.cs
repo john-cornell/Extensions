@@ -11,7 +11,7 @@ public static class AssemblyExtensions
     {
         try
         {
-                 return me.GetTypes();
+            return me.GetTypes();
         }
         catch (ReflectionTypeLoadException e)
         {
