@@ -17,6 +17,8 @@ namespace Extensions
             return me.HasValue ? (me.Value ? "Yes" : "No") : "";
         }
 
+
+        //Bleh? :(
         public static bool Not(this bool me)
         {
             return !me;
