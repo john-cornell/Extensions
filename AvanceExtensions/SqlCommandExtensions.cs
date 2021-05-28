@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Data.SqlClient;
 
-namespace Avance
+namespace Extensions
 {
     public static class SqlCommandExtensions
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Avance.ExtensionMethods
+namespace Extensions.ExtensionMethods
 {
     public static class QueueExtensions
     {

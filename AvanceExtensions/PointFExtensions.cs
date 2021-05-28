@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 
-namespace Avance
+namespace Extensions
 {
     public static class PointFExtensions
     {

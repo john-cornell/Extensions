@@ -5,7 +5,7 @@ using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Text;
 
-namespace Avance
+namespace Extensions
 {
     public static class GraphicsExtensions
     {

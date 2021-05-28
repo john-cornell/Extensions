@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace Avance
+namespace Extensions
 {
     public static class FileStreamExtensionMethods
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Avance
+namespace Extensions
 {
     public static class FuncExtensions
     {

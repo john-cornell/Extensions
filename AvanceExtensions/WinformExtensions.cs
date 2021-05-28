@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows.Forms;
 
-namespace Avance
+namespace Extensions
 {
     public static class ControlExtensionMethods
     {

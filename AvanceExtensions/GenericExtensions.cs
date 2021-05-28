@@ -1,5 +1,5 @@
 ﻿
-namespace Avance
+namespace Extensions
 {
     public static class GenericExtensions
     {
