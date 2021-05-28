@@ -51,7 +51,6 @@
     <Compile Include="AssemblyExtensions.cs" />
     <Compile Include="BoolExtensions.cs" />
     <Compile Include="ByteArrayExtensions.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="ColorExtensions.cs" />
     <Compile Include="ConcurrentDictionaryExtensions.cs" />
     <Compile Include="ControlExtensions.cs" />
